@@ -22,8 +22,7 @@ so we are allowed to use the geografic information such as district, state, coun
 
 The next image shows the data obtained by geoapify API, to get the fields described above.
 
-<p align="center"><img src="https://github.com/zuntaalejandra/Tableau_Challenge/blob/main/Images/Complete%20direction%20of%20each%20bike%20station%20obtained%20using%20the%20API%20geoapify.png
-" /></p>
+<p align="center"><img src="https://github.com/zuntaalejandra/Tableau_Challenge/blob/main/Images/Complete%20direction%20of%20each%20bike%20station%20obtained%20using%20the%20API%20geoapify.png" /></p>
 
 The script with this functionality is in folder "jupyter_scripts". For more details, open the jupyter file named: preparation_station_info_citi_bike_geoapify.ipynb 
 Note: you will need an api_key from the website geoapify to run the script.
@@ -56,9 +55,9 @@ See the second dasboard in the next picture.
 
 # History implemented in Tableau
 
-The next pictures shows the special features found analyzing the data mencioned. To know the conclusion obtained in each graph, please read the message you can find in the title of each one.
-
-To know more details, use the Tableau desktop file named: Bycle_Analysis_DashBoards_Stories.twb
+The next pictures shows the special features found analyzing the data mencioned. 
+To know the conclusion obtained in each graph, please read the message you can find in the title of each one.
+For more details, use the Tableau desktop file named: Bycle_Analysis_DashBoards_Stories.twb
 
 
 Image 1
