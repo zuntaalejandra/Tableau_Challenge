@@ -1,0 +1,346 @@
+,Station Id,Latitude,Longitude,complete_adress,postcode,county,district,city,state
+0,3696.05,40.6630619,-73.9539,"404 Rogers Avenue, New York, NY 11225, United States of America",11225,Kings County,Brooklyn,New York,New York
+1,4161.01,40.6786,-73.9037,"1 Van Sinderen Avenue, New York, NY 11233, United States of America",11233,Kings County,Brooklyn,New York,New York
+2,4243.01,40.681211700000006,-74.0086,"Extech Building Materials, 87 Bowne Street, New York, NY 11231, United States of America",11231,Not found,Columbia Street Waterfront District,New York,New York
+3,4476.03,40.6900815,-73.9479,"662 Lafayette Avenue, New York, NY 11216, United States of America",11216,Not found,Not found,New York,New York
+4,4488.08,40.6902375,-73.992,"LensCrafters, 121 Court Street, New York, NY 11201, United States of America",11201,Kings County,Brooklyn,New York,New York
+5,4553.04,40.69128258,-73.9452,"229 Tompkins Avenue, New York, NY 11221, United States of America",11221,Not found,Bedford-Stuyvesant,New York,New York
+6,4590.01,40.69231661,-74.0149,"109 Andes Road, New York, NY 10004, United States of America",10004,New York County,Manhattan,New York,New York
+7,4659.02,40.69327018,-73.977,"Citi Bike, Myrtle Avenue, New York, NY 11237, United States of America",11237,Kings County,Brooklyn,New York,New York
+8,4700.06,40.69608941,-73.978,"Citi Bike - Park Avenue & Saint Edwards Street, Park Avenue, New York, NY 11251, United States of America",11251,Kings County,Brooklyn,New York,New York
+9,4798.02,40.699220000000004,-73.898,"59-02 Summerfield Street, New York, NY 11385, United States of America",11385,Queens County,Queens,New York,New York
+10,4846.01,40.70122128,-74.0123,"Battery Maritime Building, 10 South Street, New York, NY 10004, United States of America",10004,New York County,Financial District,New York,New York
+11,4889.06,40.701907,-74.0139,"Citi Bike - Bus Slip & State St, Peter Minuit Plaza, New York, NY 10004, United States of America",10004,New York County,Financial District,New York,New York
+12,4920.13,40.70188859,-74.0109,"Citi Bike - South St & Broad St, South Street, New York, NY 10038, United States of America",10038,New York County,Financial District,New York,New York
+13,4953.04,40.70355377,-74.0067,"Pier 11, New York, NY 10041, United States of America",10041,New York County,Financial District,New York,New York
+14,4962.01,40.70463334,-74.0136,"Citi Bike - Broadway & Battery Pl, Battery Place, New York, NY 10275, United States of America",10275,New York County,Financial District,New York,New York
+15,4962.02,40.703661705,-74.0132,"Whitehall Street-South Ferry, Stone Street, New York, NY 10004, United States of America",10004,New York County,Financial District,New York,New York
+16,4962.08,40.70365182,-74.0117,"Stone & Webster Building, 90 Broad Street, New York, NY 10004, United States of America",10004,New York County,Financial District,New York,New York
+17,4993.02,40.7047177,-74.0093,"Citi Bike - Pearl St & Hanover Square, Pearl Street, New York, NY 10038, United States of America",10038,New York County,Financial District,New York,New York
+18,4993.13,40.70336687,-74.0079,"100 Old Slip - New York City Police Museum, 100 Old Slip, New York, NY 10005, United States of America",10005,New York County,Financial District,New York,New York
+19,4993.15,40.704696679,-74.008,"NS4177, Water Street, New York, NY 10004, United States of America",10004,New York County,Financial District,New York,New York
+20,4996.08,40.70510918,-73.9441,"Citi Bike - McKibbin St & Manhattan Ave, McKibbin Street, New York, NY 11206, United States of America",11206,Kings County,Brooklyn,New York,New York
+21,5001.08,40.70569254,-74.0168,"1st Place, New York, NY 10280, United States of America",10280,New York County,Battery Park City,New York,New York
+22,5024.1,40.70641076,-74.0056,"175 Water Street, New York, NY 10038, United States of America",10038,New York County,Manhattan,New York,New York
+23,5024.10,40.706410755,-74.0056,"175 Water Street, New York, NY 10038, United States of America",10038,New York County,Manhattan,New York,New York
+24,5033.01,40.70594513,-74.0132,"29 Broadway, New York, NY 10006, United States of America",10006,New York County,Financial District,New York,New York
+25,5065.1,40.70706456,-74.0073,"Citi Bike - Maiden Ln & Pearl St, Maiden Lane, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 1,New York,New York
+26,5065.04,40.70862144,-74.0072,"Citi Bike - John St & William St, John Street, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 1,New York,New York
+27,5065.10,40.70706456,-74.0073,"Citi Bike - Maiden Ln & Pearl St, Maiden Lane, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 1,New York,New York
+28,5065.12,40.70717936,-74.0089,"60 William Street, New York, NY 10005, United States of America",10005,New York County,Manhattan,New York,New York
+29,5065.14,40.70838,-74.005,"Exhibit, 56 Fulton Street, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 1,New York,New York
+30,5096.11,40.708484999999996,-74.0028,"294 Pearl Street, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 1,New York,New York
+31,5096.12,40.707518883,-74.0011,"45 Peck Slip, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 1,New York,New York
+32,5105.01,40.70905623,-74.0104,"Citi Bike - Liberty St & Broadway, Liberty Street, New York, NY 10005, United States of America",10005,New York County,Manhattan Community Board 1,New York,New York
+33,5105.09,40.70858894,-74.0094,"Nassau Street, New York, NY 10038, United States of America",10038,New York County,Financial District,New York,New York
+34,5114.06,40.70834698,-74.0171,"Citi Bike - West Thames St, West Thames Street, New York, NY 10280, United States of America",10280,New York County,Manhattan Community Board 1,New York,New York
+35,5137.1,40.71146364,-74.0055,"Pace University, Beekman Street, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 1,New York,New York
+36,5137.10,40.71146364,-74.0055,"Pace University, Beekman Street, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 1,New York,New York
+37,5145.02,40.709267,-74.0132,"2 Albany Street, New York, NY 10006, United States of America",10006,New York County,Manhattan,New York,New York
+38,5159.04,40.71173107,-73.9919,"65-75 Pike Street, New York, NY 10002, United States of America",10002,New York County,Manhattan Community Board 3,New York,New York
+39,5159.07,40.709918069000004,-73.9916,"One Manhattan Square - Base, South Street, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 3,New York,New York
+40,5170.01,40.710681,-73.9337,"370 Stagg Street, New York, NY 11206, United States of America",11206,Kings County,Brooklyn,New York,New York
+41,5175.08,40.711065999999995,-74.0094,"Citi Bike - Fulton St & Broadway, Fulton Street, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 1,New York,New York
+42,5184.08,40.711444,-74.0148,"Hudson River Greenway, New York, NY 10281, United States of America",10281,New York County,Battery Park City,New York,New York
+43,5198.04,40.71076228,-73.994,"Citi Bike, Market Street, New York, NY 10002, United States of America",10002,New York County,Manhattan Community Board 3,New York,New York
+44,5207.01,40.71273266,-74.0046,"Brooklyn Bridge-City Hall (4,5,6,<6>), Brooklyn Bridge, New York, NY 10000, United States of America",10000,New York County,Manhattan Community Board 1,New York,New York
+45,5216.06,40.71221958,-74.0105,"Citi Bike - Vesey St & Church St, Vesey Street, New York, NY 10281, United States of America",10281,New York County,Manhattan Community Board 1,New York,New York
+46,5238.05,40.71307916,-73.9985,"Citi Bike - Saint James Place & Oliver Street, Pearl Street, New York, NY 10278, United States of America",10278,New York County,Manhattan Community Board 3,New York,New York
+47,5279.03,40.71494807,-74.0023,"Thomas Paine Park, New York, NY 10007, United States of America",10007,New York County,Manhattan,New York,New York
+48,5288.08,40.71334184,-74.0094,"Chambers Street–World Trade Center–Park Place–Cortlandt Street, John Street, New York, NY 10038, United States of America",10038,New York County,Manhattan Community Board 1,New York,New York
+49,5288.09,40.71473993,-74.0091,"Citi Bike - Warren St & W Broadway, Warren Street, New York, NY 10007, United States of America",10007,New York County,Manhattan Community Board 1,New York,New York
+50,5288.12,40.714851505,-74.0112,"85 Murray Street, New York, NY 10007, United States of America",10007,New York County,Manhattan,New York,New York
+51,5297.02,40.715337899999994,-74.0166,"Irish Hunger Memorial, Vesey Place, New York, NY 10285, United States of America",10285,New York County,Manhattan Community Board 1,New York,New York
+52,5329.03,40.71754834,-74.0132,"Tribeca Bridge, New York, NY 10282, United States of America",10282,New York County,Manhattan Community Board 1,New York,New York
+53,5329.08,40.71503,-74.0125,"Citi Bike - Murray St & West St, New York, NY 10007, United States of America",10007,New York County,Manhattan,New York,New York
+54,5343.11,40.717318404000004,-73.9907,"318 Grand Street, New York, NY 10002, United States of America",10002,New York County,Manhattan,New York,New York
+55,5359.10,40.71625008,-74.0091,"Citi Bike - Hudson Street & Reade Street, Hudson Street, New York, NY 10014, United States of America",10014,New York County,Manhattan Community Board 1,New York,New York
+56,5359.11,40.717571,-74.0055,"Citi Bike - Leonard St & Church St, Leonard Street, New York, NY 10013, United States of America",10013,New York County,Manhattan Community Board 1,New York,New York
+57,5359.12,40.71703,-74.0093,"166 Duane Street, New York, NY 10013, United States of America",10013,New York County,Manhattan Community Board 1,New York,New York
+58,5368.03,40.71759895,-74.0159,"Citi Bike - River Terrace & Warren St, Vesey Place, New York, NY 10282, United States of America",10282,New York County,Manhattan Community Board 1,New York,New York
+59,5382.07,40.717798177,-73.9932,"90 Forsyth Street, New York, NY 10002, United States of America",10002,New York County,Manhattan Community Board 3,New York,New York
+60,5391.06,40.71939226,-74.0025,"Citi Bike - Lispenard St & Broadway, Lispenard Street, New York, NY 10013, United States of America",10013,New York County,Manhattan Community Board 1,New York,New York
+61,5422.09,40.720279999999995,-73.9988,"173 Lafayette Street, New York, NY 10013, United States of America",10013,New York County,Manhattan,New York,New York
+62,5430.1,40.71979209,-74.0052,"3 Walker Street, New York, NY 10013, United States of America",10013,New York County,Manhattan,New York,New York
+63,5430.08,40.71911552,-74.0067,"Franklin Street, New York, NY 10013, United States of America",10013,New York County,Manhattan,New York,New York
+64,5430.10,40.71979209,-74.0052,"3 Walker Street, New York, NY 10013, United States of America",10013,New York County,Manhattan,New York,New York
+65,5445.02,40.72066442,-73.9852,"164 Suffolk Street, New York, NY 10002, United States of America",10002,New York County,Manhattan Community Board 3,New York,New York
+66,5453.01,40.72110063,-73.9919,"M’Finda Kalunga Garden, Rivington Street, New York, NY 10002, United States of America",10002,New York County,Manhattan Community Board 3,New York,New York
+67,5453.06,40.72054,-73.9949,"154 Elizabeth Street, New York, NY 10012, United States of America",10012,New York County,Manhattan,New York,New York
+68,5470.1,40.721319,-74.0101,"396 Greenwich Street, New York, NY 10013, United States of America",10013,New York County,Manhattan Community Board 1,New York,New York
+69,5470.02,40.719961181,-74.0084,"122 Hudson Street, New York, NY 10013, United States of America",10013,New York County,Manhattan,New York,New York
+70,5470.10,40.721319,-74.0101,"396 Greenwich Street, New York, NY 10013, United States of America",10013,New York County,Manhattan Community Board 1,New York,New York
+71,5470.12,40.72019521,-74.0103,"385 Greenwich Street, New York, NY 10013, United States of America",10013,New York County,Manhattan,New York,New York
+72,5470.13,40.719888,-74.0086,"119 Hudson Street, New York, NY 10013, United States of America",10013,New York County,Manhattan,New York,New York
+73,5492.05,40.722103786999995,-73.9972,"Spring Street, Lafayette Street, New York, NY 10012, United States of America",10012,New York County,Manhattan Community Board 2,New York,New York
+74,5500.07,40.72243797,-74.0057,"Citi Bike - 6 Ave & Canal St, Sullivan Street, New York, NY 10005, United States of America",10005,New York County,Manhattan Community Board 2,New York,New York
+75,5509.02,40.72231,-74.0106,"414 Washington Street, New York, NY 10013, United States of America",10013,New York County,Manhattan Community Board 1,New York,New York
+76,5532.01,40.72362738,-73.9995,"105 Mercer Street, New York, NY 10012, United States of America",10012,New York County,Manhattan Community Board 2,New York,New York
+77,5539.06,40.72185379,-74.0077,"Citi Bike - Laight St & Hudson St, Laight Street, New York, NY 10013, United States of America",10013,New York County,Manhattan Community Board 1,New York,New York
+78,5553.1,40.72307749,-73.9858,"29 Ave A, New York, NY 10009, United States of America",10009,New York County,Manhattan,New York,New York
+79,5561.04,40.72317958,-73.9948,"Citi Bike - Mott St & Prince St, Mott Street, New York, NY 10012, United States of America",10012,New York County,Manhattan Community Board 2,New York,New York
+80,5561.06,40.72456089,-73.9957,"Citi Bike - Lafayette St & Jersey St, Lafayette Street, New York, NY 10012, United States of America",10012,New York County,Manhattan Community Board 2,New York,New York
+81,5569.06,40.724946724,-74.0017,"414 W Broadway, New York, NY 10012, United States of America",10012,New York County,Manhattan,New York,New York
+82,5578.02,40.72405549,-74.0097,"131 Watts Street, New York, NY 10013, United States of America",10013,New York County,Manhattan Community Board 1,New York,New York
+83,5593.02,40.72502876,-73.9907,"Citi Bike - East 2nd Street & 2nd Avenue, East 2nd Street, New York, NY 10012, United States of America",10012,New York County,Manhattan Community Board 3,New York,New York
+84,5593.04,40.726280700000004,-73.9898,"Citi Bike - East 4th Street & 2nd Avenue, East 4th Street, New York, NY 10009, United States of America",10009,New York County,East Village,New York,New York
+85,5602.06,40.72511734,-73.9993,"119 Greene Street, New York, NY 10012, United States of America",10012,New York County,Manhattan Community Board 2,New York,New York
+86,5610.09,40.724309999999996,-74.0047,"6th Avenue, New York, NY 10005, United States of America",10005,New York County,Hudson Square,New York,New York
+87,5626.07,40.72621788,-73.9838,"Citi Bike - East 7th Street & Avenue A, East 7th Street, New York, NY 10009, United States of America",10009,New York County,Manhattan Community Board 3,New York,New York
+88,5636.11,40.72743423,-73.9938,"Citi Bike - Great Jones St, Great Jones Street, New York, NY 10012, United States of America",10012,New York County,Manhattan Community Board 2,New York,New York
+89,5636.13,40.724861223000005,-73.9921,"4 East 1st Street, New York, NY 10003, United States of America",10003,New York County,Manhattan Community Board 3,New York,New York
+90,5644.05,40.726378000000004,-74.0005,"464 West Broadway, New York, NY 10012, United States of America",10012,New York County,Manhattan Community Board 2,New York,New York
+91,5653.12,40.725839968,-74.0077,"292 Spring Street, New York, NY 10013, United States of America",10013,New York County,Manhattan,New York,New York
+92,5669.1,40.7284186,-73.9871,"Citi Bike - St Marks Pl & 2 Ave, Saint Mark's Place, New York, NY 10003, United States of America",10003,New York County,Manhattan Community Board 3,New York,New York
+93,5679.05,40.727063633,-73.9966,"New York University, Cornelia Street, New York, NY 10014, United States of America",10014,New York County,Washington Square Village,New York,New York
+94,5679.08,40.72615605,-73.9951,"Le Pain Quotidien, 65 Bleecker Street, New York, NY 10012, United States of America",10012,New York County,NoHo Historic District,New York,New York
+95,5687.11,40.72789701,-74.0054,"200 Varick Street, New York, NY 10014, United States of America",10014,New York County,Manhattan,New York,New York
+96,5696.03,40.72771408,-74.0113,"Citi Bike, Hudson River Park Esplanade, New York, NY 10282, United States of America",10282,New York County,Hudson Square,New York,New York
+97,5703.13,40.72854745,-73.9818,"185 Avenue A, New York, NY 10009, United States of America",10009,New York County,Alphabet City,New York,New York
+98,5712.03,40.72951496,-73.9908,"Manhattan, New York, NY, United States of America",not found,New York County,East Village,New York,New York
+99,5712.12,40.72769,-73.991,"27 Cooper Square, New York, NY 10003, United States of America",10003,New York County,Manhattan,New York,New York
+100,5721.01,40.73047747,-73.9991,"New York University, Cornelia Street, New York, NY 10014, United States of America",10014,New York County,Washington Square Village,New York,New York
+101,5721.14,40.72917025,-73.9981,"New York University, Cornelia Street, New York, NY 10014, United States of America",10014,New York County,Washington Square Village,New York,New York
+102,5730.08,40.728846000000004,-74.0086,"315 West Houston Street, New York, NY 10013, United States of America",10013,New York County,Manhattan,New York,New York
+103,5746.14,40.72953837,-73.9843,"Citi Bike - E 11 St & 1 Ave, East 11th Street, New York, NY 10009, United States of America",10009,New York County,Manhattan Community Board 3,New York,New York
+104,5755.14,40.73143724,-73.9949,"New York University, Cornelia Street, New York, NY 10014, United States of America",10014,New York County,Washington Square Village,New York,New York
+105,5763.03,40.73038599,-74.0021,"Citi Bike - Carmine St & 6 Ave, Carmine Street, New York, NY 10014, United States of America",10014,New York County,West Village,New York,New York
+106,5772.05,40.73115,-74.0089,"101 Morton Street, New York, NY 10014, United States of America",10014,New York County,Manhattan,New York,New York
+107,5788.13,40.730206605,-73.991,"Astor Place, Lafayette Street, New York, NY 10003, United States of America",10003,New York County,Manhattan Community Board 2,New York,New York
+108,5797.01,40.73226398,-73.9985,"New York University, Cornelia Street, New York, NY 10014, United States of America",10014,New York County,Washington Square Village,New York,New York
+109,5805.05,40.73172428,-74.0067,"Barrow's Pub, 463 Hudson Street, New York, NY 10014, United States of America",10014,New York County,Manhattan,New York,New York
+110,5820.08,40.731539375,-73.9853,"204 2nd Avenue, New York, NY 10035, United States of America",10035,New York County,Manhattan Community Board 3,New York,New York
+111,5847.01,40.73291553,-74.0071,"Citi Bike - Christopher St & Greenwich St, Christopher Street, New York, NY 10014, United States of America",10014,New York County,Manhattan Community Board 2,New York,New York
+112,5847.06,40.733423994,-74.0085,"277 West 10th Street, New York, NY 10014, United States of America",10014,New York County,Manhattan Community Board 2,New York,New York
+113,5872.1,40.73275887,-73.9958,"11 5th Avenue, New York, NY 10003, United States of America",10003,New York County,Manhattan,New York,New York
+114,5880.02,40.73401143,-74.0029,"Citi bike - W 4 St & 7 Ave S, West 4th Street, New York, NY 10014, United States of America",10014,New York County,Manhattan Community Board 2,New York,New York
+115,5905.14,40.734814,-73.9921,"126 University Place, New York, NY 10003, United States of America",10003,New York County,Manhattan Community Board 2,New York,New York
+116,5914.08,40.735238,-74.0003,"Citi Bike - Greenwich Avenue & Charles Street, Greenwich Avenue, New York, NY 10014, United States of America",10014,New York County,Manhattan Community Board 2,New York,New York
+117,5922.07,40.73535398,-74.0048,"Citi Bike - Perry St & Bleecker St, Perry Street, New York, NY 10014, United States of America",10014,New York County,Manhattan Community Board 2,New York,New York
+118,5922.08,40.73652889,-74.0062,"Citi Bike - Bank St & Hudson St, Bank Street, New York, NY 10014, United States of America",10014,New York County,Manhattan Community Board 2,New York,New York
+119,5944.01,40.735640000000004,-73.9587,"Citi Bike - Franklin St & Dupont St, Dupont Street, New York, NY 11222, United States of America",11222,Kings County,Brooklyn,New York,New York
+120,5964.01,40.7361967,-74.0086,"Citi Bike - Bank St & Washington St, Bank Street, New York, NY 10014, United States of America",10014,New York County,Manhattan Community Board 2,New York,New York
+121,5971.09,40.737169194,-73.9812,"Gramercy East, 301 East 22nd Street, New York, NY 10010, United States of America",10010,New York County,Manhattan Community Board 6,New York,New York
+122,5980.07,40.73704984,-73.9901,"Citi Bike - East 17th Street & Broadway, East 17th Street, New York, NY 10010, United States of America",10010,New York County,Manhattan Community Board 5,New York,New York
+123,6055.08,40.73827428,-73.9875,"Citi Bike - East 20th Street & Park Avenue, East 20th Street, New York, NY 10003, United States of America",10003,New York County,Manhattan Community Board 5,New York,New York
+124,6072.11,40.740983,-74.0017,"14th Street, 8th Avenue, New York, NY 10011, United States of America",10011,New York County,Chelsea District,New York,New York
+125,6072.14,40.739448201,-74.0051,"15 Gansevoort Street, New York, NY 10014, United States of America",10014,New York County,Manhattan,New York,New York
+126,6079.03,40.741444,-73.9754,"Citi Bike - 1st Avenue & East 30th Street, 1st Avenue, New York, NY 10016, United States of America",10016,New York County,Manhattan Community Board 6,New York,New York
+127,6089.07,40.74025878,-73.9841,"Citi Bike - Lexington Avenue & East 24th Street, Lexington Avenue, New York, NY 10037, United States of America",10037,New York County,Manhattan Community Board 6,New York,New York
+128,6098.1,40.73988841,-73.9896,"East 21st Street, New York, NY 10010, United States of America",10010,New York County,Manhattan,New York,New York
+129,6098.12,40.73866091,-73.9899,"890 Broadway, New York, NY 10003, United States of America",10003,New York County,Manhattan,New York,New York
+130,6115.06,40.740057086,-74.0053,"355 West 13th Street, New York, NY 10014, United States of America",10014,New York County,Manhattan,New York,New York
+131,6115.09,40.742753829,-74.0075,"The High Line, Coach Passage, New York, NY 10199, United States of America",10199,New York County,Manhattan Community Board 4,New York,New York
+132,6131.12,40.74268473,-73.9867,"East 26th Street, New York, NY 10010, United States of America",10010,New York County,Manhattan,New York,New York
+133,6140.05,40.74173969,-73.9942,"Citi Bike - West 21st Street & 6th Avenue, West 21st Street, New York, NY 10011, United States of America",10011,New York County,Chelsea District,New York,New York
+134,6148.02,40.74177603,-74.0015,"Citi Bike - West 17th Street & 8th Avenue, West 17th Street, New York, NY 10011, United States of America",10011,New York County,Chelsea District,New York,New York
+135,6157.04,40.7419816,-74.0083,"53 10th Avenue, New York, NY 10014, United States of America",10014,New York County,Manhattan,New York,New York
+136,6173.08,40.742868773000005,-73.9892,"16 Madison Square West, New York, NY 10010, United States of America",10010,New York County,Manhattan,New York,New York
+137,6182.02,40.74238787,-73.9973,"Citi Bike - West 20th Street & 7th Avenue, West 20th Street, New York, NY 10011, United States of America",10011,New York County,Chelsea District,New York,New York
+138,6190.08,40.74317449,-74.0037,"Citi Bike - 9th Avenue & West 18th Street, 9th Avenue, New York, NY 10019, United States of America",10019,New York County,Chelsea District,New York,New York
+139,6206.08,40.74444921,-73.983,"Citi Bike - East 30th Street & Park Avenue South, East 30th Street, New York, NY 10016, United States of America",10016,New York County,Manhattan Community Board 5,New York,New York
+140,6212.08,40.7449067,-73.9535,"47-18 Vernon Boulevard, New York, NY 11101, United States of America",11101,Queens County,Hunters Point,New York,New York
+141,6224.03,40.74475148,-73.9992,"Citi Bike - West 22nd Street & 8th Avenue, West 22nd Street, New York, NY 10011, United States of America",10011,New York County,Chelsea District,New York,New York
+142,6224.06,40.745910728,-73.9981,"West 23rd Street, New York, NY 10011, United States of America",10011,New York County,Chelsea District,New York,New York
+143,6233.05,40.74334935,-74.0068,"Citi Bike - W 16 St & The High Line, West 16th Street, New York, NY 10011, United States of America",10011,New York County,Chelsea District,New York,New York
+144,6239.08,40.743943,-73.9797,"Citi Bike - East 31st Street & 3rd Avenue, East 31st Street, New York, NY 10016, United States of America",10016,New York County,Manhattan Community Board 6,New York,New York
+145,6247.06,40.746646999999996,-73.9939,"West 27th Street, New York, NY 10001, United States of America",10001,New York County,Chelsea District,New York,New York
+146,6257.03,40.74487634,-73.9953,"Citi Bike - West 24th Street & 7th Avenue, West 24th Street, New York, NY 10011, United States of America",10011,New York County,Chelsea District,New York,New York
+147,6289.06,40.7462009,-73.9886,"Citi Bike - Broadway & West 29th Street, Broadway, New York, NY 10019, United States of America",10019,New York County,Midtown South,New York,New York
+148,6306.01,40.745686,-74.0051,"415 West 20th Street, New York, NY 10011, United States of America",10011,New York County,Chelsea District,New York,New York
+149,6306.06,40.74691959,-74.0045,"Citi Bike - W 22 St & 10 Ave, West 22nd Street, New York, NY 10011, United States of America",10011,New York County,Chelsea District,New York,New York
+150,6364.1,40.74964,-73.9881,"34th Street–Herald Square, West 35th Street, New York, NY 10120, United States of America",10120,New York County,Herald Square,New York,New York
+151,6364.07,40.74901271,-73.9885,"34th Street–Herald Square, West 35th Street, New York, NY 10120, United States of America",10120,New York County,Herald Square,New York,New York
+152,6389.09,40.749498546,-73.9773,"Citi Bike, East 39th Street, New York, NY 10016, United States of America",10016,New York County,Manhattan Community Board 6,New York,New York
+153,6425.04,40.751396,-74.0052,"245 11th Avenue, New York, NY 10001, United States of America",10001,New York County,Manhattan,New York,New York
+154,6441.01,40.75097711,-73.9877,"Citi Bike - Broadway & West 36th Street, Broadway Boulevard, New York, NY 10120, United States of America",10120,New York County,Garment District,New York,New York
+155,6450.05,40.750585347,-73.9947,"Pennsylvania Station, 4 Pennsylvania Plaza, New York, NY 10119, United States of America",10119,New York County,Manhattan Community Board 4,New York,New York
+156,6450.12,40.751551,-73.9939,"34th Street - Penn Station, West 33rd Street, New York, NY 10001, United States of America",10001,New York County,Chelsea District,New York,New York
+157,6459.04,40.75066386,-74.0018,"Chelsea Park Track, West 28th Street, New York, NY 10001, United States of America",10001,New York County,Chelsea,New York,New York
+158,6459.07,40.752694,-74.0024,"West 30th Street, New York, NY 10001, United States of America",10001,New York County,Manhattan,New York,New York
+159,6474.02,40.752269,-73.9821,"Knox Hat Building, West 40th Street, New York, NY 10018, United States of America",10018,New York County,Manhattan Community Board 5,New York,New York
+160,6483.06,40.752148999999996,-73.9895,"164 West 36th Street, New York, NY 10018, United States of America",10018,New York County,Garment District,New York,New York
+161,6492.04,40.753773368000004,-73.9994,"Five Manhattan West, 450 West 33rd Street, New York, NY 10001, United States of America",10001,New York County,Manhattan Community Board 4,New York,New York
+162,6498.1,40.75323098,-73.9703,"Citi bike - East 47th Street & 2nd Avenue, East 47th Street, New York, NY 10017, United States of America",10017,New York County,Manhattan Community Board 6,New York,New York
+163,6517.08,40.75492,-73.9846,"1095 Avenue Of The Americas, 1095 6th Avenue, New York, NY 10019, United States of America",10019,New York County,Manhattan Community Board 5,New York,New York
+164,6526.01,40.752762089,-73.9928,"West 35th Street, New York, NY 10001, United States of America",10001,New York County,Manhattan,New York,New York
+165,6526.05,40.75461,-73.9918,"2 Bros. Pizza, 557 8th Avenue, New York, NY 10018, United States of America",10018,New York County,Manhattan Community Board 4,New York,New York
+166,6535.04,40.755167,-74.0006,"50 Hudson Yards, 50 West 34th Street, New York, NY 10001, United States of America",10001,New York County,Manhattan Community Board 4,New York,New York
+167,6551.02,40.75500254,-73.9801,"530 5th Avenue, New York, NY 10036, United States of America",10036,New York County,Manhattan Community Board 5,New York,New York
+168,6560.01,40.75513557,-73.9866,"Times Square–42nd Street/Port Authority Bus Terminal, Broadway, New York, NY 10036, United States of America",10036,New York County,Manhattan Community Board 5,New York,New York
+169,6560.14,40.754818,-73.9882,"200 West 40th Street, New York, NY 10018, United States of America",10018,New York County,Manhattan Community Board 5,New York,New York
+170,6575.03,40.755293,-73.9676,"306 East 51st Street, New York, NY 10022, United States of America",10022,New York County,Manhattan Community Board 6,New York,New York
+171,6578.01,40.75594159,-74.0021,"570 West 34th Street, New York, NY 10001, United States of America",10001,New York County,Manhattan,New York,New York
+172,6584.12,40.75510267,-73.975,"Grand Central Terminal, 245 Park Avenue, New York, NY 10017, United States of America",10017,New York County,Midtown East,New York,New York
+173,6593.15,40.756951,-73.9826,"Americas Tower, 1177 6th Avenue, New York, NY 10019, United States of America",10019,New York County,Manhattan Community Board 5,New York,New York
+174,6602.03,40.75640548,-73.99,"Times Square–42nd Street/Port Authority Bus Terminal, Broadway, New York, NY 10036, United States of America",10036,New York County,Manhattan Community Board 5,New York,New York
+175,6602.05,40.75756989999999,-73.991,"Port Authority Bus Terminal, 625 8th Avenue, New York, NY 10018, United States of America",10018,New York County,Manhattan Community Board 4,New York,New York
+176,6611.02,40.75660359,-73.9979,"485 10th Avenue, New York, NY 10018, United States of America",10018,New York County,Manhattan,New York,New York
+177,6626.11,40.75776935,-73.9793,"Drug Rehab and Alcohol Detox Center, 22 West 48th Street, New York, NY 10036, United States of America",10036,New York County,Manhattan,New York,New York
+178,6644.07,40.75898481,-73.9938,"427 West 42nd Street, New York, NY 10036, United States of America",10036,New York County,Manhattan Community Board 4,New York,New York
+179,6659.1,40.757334,-73.9742,"Grand Central Terminal, 39 East 50th Street, New York, NY 10017, United States of America",10017,New York County,Midtown East,New York,New York
+180,6659.09,40.75863,-73.9751,"Look Building, 488 Madison Avenue, New York, NY 10022, United States of America",10022,New York County,Manhattan Community Board 5,New York,New York
+181,6659.10,40.757334,-73.9742,"Grand Central Terminal, 39 East 50th Street, New York, NY 10017, United States of America",10017,New York County,Midtown East,New York,New York
+182,6667.04,40.758396999999995,-73.9826,"Rockefeller Center, 45 Rockefeller Plaza, New York, NY 10111, United States of America",10111,New York County,Manhattan Community Board 5,New York,New York
+183,6676.02,40.75929124,-73.9886,"Citi Bike - West 45th Street & 8th Avenue, West 45th Street, New York, NY 10036, United States of America",10036,New York County,Manhattan Community Board 4,New York,New York
+184,6708.04,40.760177395,-73.9849,"1593 Broadway, New York, NY 10019, United States of America",10019,New York County,Manhattan,New York,New York
+185,6711.13,40.759057954,-73.919,"31-90 Steinway Street, New York, NY 11103, United States of America",11103,Queens County,Queens,New York,New York
+186,6726.01,40.76030096,-73.9988,"Citi Bike - 11th Avenue & West 41st Street, 11th Avenue, New York, NY 10018, United States of America",10018,New York County,Hell's Kitchen,New York,New York
+187,6740.1,40.7606597,-73.9804,"Rockefeller Center, 45 Rockefeller Plaza, New York, NY 10111, United States of America",10111,New York County,Manhattan Community Board 5,New York,New York
+188,6740.01,40.761329831,-73.9798,"Manhattan, New York, NY, United States of America",not found,New York County,Theater District,New York,New York
+189,6747.07,40.76171228,-73.9866,"50th Street, West 49th Street, New York, NY 10019, United States of America",10019,New York County,Manhattan Community Board 4,New York,New York
+190,6753.08,40.761227399999996,-73.9609,"1123 1st Avenue, New York, NY 10065, United States of America",10065,New York County,Manhattan Community Board 8,New York,New York
+191,6756.05,40.762009,-73.997,"Gotham West, West 44th Street, New York, NY 10036, United States of America",10036,New York County,Manhattan Community Board 4,New York,New York
+192,6762.02,40.76095756,-73.9672,"Citi Bike - East 58th Street & 3rd Avenue, East 58th Street, New York, NY 10022, United States of America",10022,New York County,Manhattan Community Board 6,New York,New York
+193,6765.01,40.760875,-74.0028,"Dero, Hudson River Park Esplanade, New York, NY 10199, United States of America",10199,New York County,Hudson Yards,New York,New York
+194,6779.04,40.76228826,-73.9834,"50th Street, West 51st Street, New York, NY 10019, United States of America",10019,New York County,Manhattan Community Board 5,New York,New York
+195,6779.05,40.76344058,-73.9827,"Citi Bike - Broadway & West 53rd Street, West 53rd Street, New York, NY 10019, United States of America",10019,New York County,Manhattan Community Board 5,New York,New York
+196,6801.01,40.76350532,-73.9711,"35 East 59th Street, New York, NY 10022, United States of America",10022,New York County,Manhattan,New York,New York
+197,6809.07,40.76340613,-73.9772,"Citi Bike - West 56th Street & 6th Avenue, West 56th Street, New York, NY 10019, United States of America",10019,New York County,Manhattan Community Board 5,New York,New York
+198,6822.09,40.76500525,-73.9582,"1246 1st Avenue, New York, NY 10065, United States of America",10065,New York County,Manhattan,New York,New York
+199,6839.1,40.764397100000004,-73.9737,"Citi Bike - Grand Army Plaza & Central Park South, Grand Army Plaza, New York, NY 10153, United States of America",10153,New York County,Manhattan Community Board 5,New York,New York
+200,6839.10,40.764397100000004,-73.9737,"Citi Bike - Grand Army Plaza & Central Park South, Grand Army Plaza, New York, NY 10153, United States of America",10153,New York County,Manhattan Community Board 5,New York,New York
+201,6854.05,40.76360468,-73.9892,"West 50th Street/9th Avenue, New York, NY 10019, United States of America",10019,New York County,Manhattan,New York,New York
+202,6876.04,40.76590936,-73.9763,"Central Park Outer Loop, New York, NY 10105, United States of America",10105,New York County,Not found,New York,New York
+203,6884.03,40.76595918,-73.9831,"946 8th Avenue, New York, NY 10019, United States of America",10019,New York County,Manhattan,New York,New York
+204,6890.06,40.7647342,-73.9919,"500 West 50th Street, New York, NY 10019, United States of America",10019,New York County,Manhattan,New York,New York
+205,6904.06,40.766368,-73.9715,"812 5th Avenue, New York, NY 10065, United States of America",10065,New York County,Manhattan,New York,New York
+206,6925.09,40.768762029,-73.9584,"72nd Street, 2nd Avenue, New York, NY 10035, United States of America",10035,New York County,Manhattan Community Board 8,New York,New York
+207,6926.01,40.76727216,-73.9939,"Citi Bike - W 52 St / 11 Ave, West 52nd Street, New York, NY 10019, United States of America",10019,New York County,Manhattan Community Board 4,New York,New York
+208,6948.1,40.76695317,-73.9817,"Citi Bike - Broadway & West 58th Street, Broadway, New York, NY 10019, United States of America",10019,New York County,Manhattan Community Board 5,New York,New York
+209,6948.10,40.76695317,-73.9817,"Citi Bike - Broadway & West 58th Street, Broadway, New York, NY 10019, United States of America",10019,New York County,Manhattan Community Board 5,New York,New York
+210,6955.01,40.768254,-73.9886,"453 West 56th Street, New York, NY 10019, United States of America",10019,New York County,Hell's Kitchen,New York,New York
+211,6955.05,40.768333,-73.9926,"560 West 54th Street, New York, NY 10019, United States of America",10019,New York County,Manhattan Community Board 4,New York,New York
+212,7014.12,40.77003010000001,-73.982,"1870 Broadway, New York, NY 10023, United States of America",10023,New York County,Manhattan,New York,New York
+213,7023.04,40.770513,-73.988,"John Jay College of Criminal Justice, 11th Avenue, New York, NY 10018, United States of America",10018,New York County,Manhattan Community Board 4,New York,New York
+214,7059.01,40.77149671,-73.9905,"John Jay College of Criminal Justice, 11th Avenue, New York, NY 10018, United States of America",10018,New York County,Manhattan Community Board 4,New York,New York
+215,7079.06,40.7734066,-73.9778,"77 Central Park West, New York, NY 10023, United States of America",10023,New York County,Manhattan,New York,New York
+216,7116.04,40.77492513,-73.9827,"Apple Store, 1981 Broadway, New York, NY 10023, United States of America",10023,New York County,Manhattan,New York,New York
+217,7183.03,40.777507028,-73.9889,"423 West 67th Street, New York, NY 10069, United States of America",10069,New York County,Manhattan,New York,New York
+218,7188.13,40.7781314,-73.9607,"1090 Madison Avenue, New York, NY 10028, United States of America",10028,New York County,Manhattan Community Board 8,New York,New York
+219,7207.08,40.77748046,-73.9829,"201 West 70th Street, New York, NY 10023, United States of America",10023,New York County,Manhattan,New York,New York
+220,7281.09,40.780183971999996,-73.9773,"104 West 76th Street, New York, NY 10023, United States of America",10023,New York County,Not found,New York,New York
+221,7288.04,40.78057799,-73.9856,"2 Riverside Drive, New York, NY 10023, United States of America",10023,New York County,Manhattan,New York,New York
+222,7311.02,40.7829391,-73.9787,"Duane Reade, 380 Amsterdam Avenue, New York, NY 10024, United States of America",10024,New York County,Manhattan Community Board 7,New York,New York
+223,7360.1,40.78524672,-73.9767,"463 Amsterdam Avenue, New York, NY 10024, United States of America",10024,New York County,Manhattan Community Board 7,New York,New York
+224,7409.08,40.7867947,-73.9771,"210 West 84th Street, New York, NY 10024, United States of America",10024,New York County,Manhattan,New York,New York
+225,7450.05,40.794987899999995,-73.9333,"299 Pleasant Avenue, New York, NY 10029, United States of America",10029,New York County,Manhattan,New York,New York
+226,7520.07,40.7919557,-73.9681,"715 Columbus Avenue, New York, NY 10025, United States of America",10025,New York County,Manhattan,New York,New York
+227,7524.16,40.79313481,-73.977,"Citi Bike - Riverside Drive & West 92nd Street, Riverside Drive, New York, NY 10024, United States of America",10024,New York County,Manhattan,New York,New York
+228,7538.14,40.795,-73.9645,"55 West 100th Street, New York, NY 10025, United States of America",10025,New York County,Bloomingdale,New York,New York
+229,7596.1,40.797470000000004,-73.935,"P.S. 155 Playground, East 118th Street, New York, NY 10035, United States of America",10035,New York County,East Harlem,New York,New York
+230,7606.01,40.798185600000004,-73.9606,"New York Cancer Hospital, 455 Central Park West, New York, NY 10025, United States of America",10025,New York County,Bloomingdale,New York,New York
+231,7610.13,40.799041393,-73.9665,"154 West 104th Street, New York, NY 10025, United States of America",10025,New York County,Bloomingdale,New York,New York
+232,7617.07,40.799484,-73.9556,"Central Park Outer Loop, New York, NY 10026, United States of America",10026,New York County,Not found,New York,New York
+233,7650.05,40.8021174,-73.9682,"949 West End Avenue, New York, NY 10025, United States of America",10025,New York County,Manhattan,New York,New York
+234,7692.11,40.8067581,-73.9607,"Citi Bike, West 116th Street, New York, NY 10027, United States of America",10027,New York County,Manhattan Community Board 9,New York,New York
+235,7701.21,40.80722,-73.9418,"2042 5th Avenue, New York, NY 10027, United States of America",10027,New York County,Manhattan Community Board 10,New York,New York
+236,7713.11,40.8082,-73.9641,"Halal Cart, West 116th Street, New York, NY 10027, United States of America",10027,New York County,Manhattan Community Board 9,New York,New York
+237,7814.01,40.813539,-73.9452,"2244 Adam Clayton Powell Jr Boulevard, New York, NY 10027, United States of America",10027,New York County,Manhattan,New York,New York
+238,7915.11,40.820681,-73.9451,"129 Edgecombe Avenue, New York, NY 10030, United States of America",10030,New York County,Manhattan,New York,New York
+239,7922.01,40.820578000000005,-73.8883,"924 Faile Street, New York, NY 10474, United States of America",10474,Bronx County,Bronx County,New York,New York
+240,7937.15,40.821294,-73.9479,"The City College of New York, 160 Convent Avenue, New York, NY 10031, United States of America",10031,New York County,Manhattan Community Board 9,New York,New York
+241,7942.21,40.823168,-73.9559,"610 Riverside Drive, New York, NY 10031, United States of America",10031,New York County,Manhattan,New York,New York
+242,8013.07,40.827212,-73.9427,"795 St Nicholas Avenue, New York, NY 10031, United States of America",10031,New York County,Manhattan,New York,New York
+243,8108.02,40.832164,-73.9497,"762 Riverside Drive, New York, NY 10031, United States of America",10031,New York County,Manhattan,New York,New York
+244,8123.02,40.83299,-73.9459,"3741 Broadway, New York, NY 10032, United States of America",10032,New York County,Manhattan Community Board 12,New York,New York
+245,8157.06,40.835775,-73.9434,"3834 Broadway, New York, NY 10032, United States of America",10032,New York County,Manhattan,New York,New York
+246,8213.01,40.840484000000004,-73.9179,"19 West 170th Street, New York, NY 10452, United States of America",10452,Not found,Bronx County,New York,New York
+247,8226.07,40.84210236,-73.9422,"William Black Building, 650 West 168th Street, New York, NY 10032, United States of America",10032,New York County,Manhattan Community Board 12,New York,New York
+248,8299.03,40.846052,-73.9376,"619 West 175th Street, New York, NY 10033, United States of America",10033,New York County,Manhattan Community Board 12,New York,New York
+249,8320.01,40.84522,-73.9405,"300 Fort Washington Avenue, New York, NY 10032, United States of America",10032,New York County,Manhattan Community Board 12,New York,New York
+250,8358.1,40.848282,-73.9413,"1 Cabrini Boulevard, New York, NY 10033, United States of America",10033,New York County,Manhattan Community Board 12,New York,New York
+251,8358.03,40.849971999999994,-73.9384,"725 West 180th Street, New York, NY 10033, United States of America",10033,New York County,Manhattan Community Board 12,New York,New York
+252,8358.10,40.848282,-73.9413,"1 Cabrini Boulevard, New York, NY 10033, United States of America",10033,New York County,Manhattan Community Board 12,New York,New York
+253,8381.04,40.85168,-73.9419,"Lafayette Plaza, New York, NY 10033, United States of America",10033,New York County,Hudson Heights,New York,New York
+254,HB101,40.73593758,-74.0303,"60 Observer Highway, Hoboken, NJ 07030, United States of America",07030,Hudson County,Not found,Hoboken,New Jersey
+255,HB102,40.736067655999996,-74.0291,"81 River Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+256,HB103,40.736982,-74.0278,"Hoboken First World War memorial, Sinatra Drive, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+257,HB105,40.737359999999995,-74.031,"Hoboken City Hall, 94 Washington Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+258,HB201,40.750603999999996,-74.024,"1125 Maxwell Lane, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+259,HB202,40.75296063,-74.0244,"1401 Hudson St, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+260,HB203,40.754529999999995,-74.0266,"15th Street, Hoboken, NJ 07086, United States of America",07086,Hudson County,Not found,Hoboken,New Jersey
+261,HB301,40.742257978000005,-74.0351,"331 Grand Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+262,HB302,40.74439783,-74.0345,"601 Grand St, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+263,HB303,40.74542,-74.0333,"127 7th St, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+264,HB304,40.746412648,-74.038,"Hoboken Catholic Academy, 555 7th Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Not found,Hoboken,New Jersey
+265,HB305,40.747907,-74.0384,"816 Jackson Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+266,HB401,40.737551,-74.0417,"58 Jackson Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+267,HB402,40.73879,-74.0393,"92 Madison Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+268,HB404,40.74313994,-74.04,"332 Jackson Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+269,HB407,40.73981372,-74.0369,"412 2nd St, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+270,HB408,40.740802,-74.0425,"700 1st Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+271,HB409,40.737429999999996,-74.0357,"82 Clinton Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+272,HB501,40.748160999999996,-74.0325,"901 Clinton St, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+273,HB502,40.749984909,-74.0272,"PromptMD Family Practice, 1122 Washington St, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+274,HB503,40.749943,-74.0359,"ShopRite, 900 Madison Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Not found,Hoboken,New Jersey
+275,HB505,40.751867,-74.0304,"1132 Willow Avenue, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+276,HB506,40.754090000000005,-74.0316,"1396 Grand Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Not found,Hoboken,New Jersey
+277,HB507,40.75091553,-74.0335,"1100 Adams Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+278,HB601,40.742659,-74.0322,"500 Park Ave, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+279,HB602,40.743132827,-74.027,"Stevens Institute of Technology, Castle Point Terrace, Hoboken, NJ 07030, United States of America",07030,Hudson County,Not found,Hoboken,New Jersey
+280,HB603,40.74598388,-74.0282,"SMT Center, 731 Washington Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+281,HB607,40.740972609,-74.0286,"Saints Peter and Paul RC Church, 404 Hudson Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Hoboken,Hoboken,New Jersey
+282,HB608,40.739152728,-74.0331,"201 2nd Street, Hoboken, NJ 07030, United States of America",07030,Hudson County,Not found,Hoboken,New Jersey
+283,JC002,40.714145,-74.0336,"70 Hudson Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Colgate Center,Jersey City,New Jersey
+284,JC003,40.717732500000004,-74.0438,"222 Montgomery Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+285,JC005,40.719586,-74.0431,"Christopher Columbus Drive, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+286,JC006,40.721123600000006,-74.0381,"110 1st Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+287,JC008,40.728744799999994,-74.0321,"80 River Drive South, Jersey City, NJ 07310, United States of America",07310,Hudson County,Jersey City,Jersey City,New Jersey
+288,JC009,40.727595965999996,-74.0442,"McWilliams Place, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+289,JC011,40.71653978,-74.0496,"Jersey City Medical Center, 355 Grand Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Not found,Jersey City,New Jersey
+290,JC013,40.714584,-74.0428,"St Peters Field, Marin Boulevard, Jersey City, NJ 07302, United States of America",07302,Hudson County,Downtown Jersey City,Jersey City,New Jersey
+291,JC014,40.718354999999995,-74.0389,"Citi Bike, Christopher Columbus Drive, Jersey City, NJ 07302, United States of America",07302,Hudson County,Downtown Jersey City,Jersey City,New Jersey
+292,JC018,40.734961,-74.0595,"Jersey City Public Library, Five Corners Branch, 678 Newark Avenue, Jersey City, NJ 07306, United States of America",07306,Hudson County,Indian Square,Jersey City,New Jersey
+293,JC019,40.7311689,-74.0576,"267 Baldwin Avenue, Jersey City, NJ 07306, United States of America",07306,Hudson County,Jersey City,Jersey City,New Jersey
+294,JC020,40.7236589,-74.0642,"Baldwin Avenue at Montgomery Street, Baldwin Avenue, Jersey City, NJ 07306, United States of America",07306,Hudson County,Jersey City,Jersey City,New Jersey
+295,JC022,40.7376037,-74.0525,"77 Jefferson Avenue, Jersey City, NJ 07306, United States of America",07306,Hudson County,Not found,Jersey City,New Jersey
+296,JC023,40.7241765,-74.0507,"303 Newark Avenue, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+297,JC024,40.742677,-74.0518,"Central Avenue at Manhattan Avenue, Central Avenue, Jersey City, NJ 07307, United States of America",07307,Hudson County,Jersey City,Jersey City,New Jersey
+298,JC027,40.725289000000004,-74.0456,"617 Jersey Avenue, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+299,JC032,40.721525,-74.0463,"201 Newark Avenue, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+300,JC034,40.734785818,-74.0504,"2 Beacon Avenue, Jersey City, NJ 07306, United States of America",07306,Hudson County,Not found,Jersey City,New Jersey
+301,JC035,40.71848892,-74.0477,"469 Jersey Avenue, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+302,JC038,40.712773999999996,-74.0365,"Clermont Cove, 1 Greene Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Colgate Center,Jersey City,New Jersey
+303,JC051,40.718211,-74.0836,"333 Union Street, Jersey City, NJ 07304, United States of America",07304,Hudson County,Not found,Jersey City,New Jersey
+304,JC052,40.711242,-74.0557,"Liberty State Park Park-Ride, Communipaw Avenue, Jersey City, NJ 07302, United States of America",07302,Hudson County,Not found,Jersey City,New Jersey
+305,JC053,40.724605,-74.0784,"151 Kensington Avenue, Jersey City, NJ 07304, United States of America",07304,Hudson County,Jersey City,Jersey City,New Jersey
+306,JC055,40.725339925,-74.0676,"Foley Place, Jersey City, NJ 07306, United States of America",07306,Hudson County,Jersey City,Jersey City,New Jersey
+307,JC056,40.730897,-74.0639,"7-Eleven, 922 Bergen Avenue, Jersey City, NJ 07306, United States of America",07306,Hudson County,Jersey City,Jersey City,New Jersey
+308,JC057,40.7443187,-74.044,"461 Palisade Avenue, Jersey City, NJ 07087, United States of America",07087,Hudson County,Not found,Jersey City,New Jersey
+309,JC059,40.748715945,-74.0404,"Congress Street, Jersey City, NJ 07307, United States of America",07307,Hudson County,Jersey City,Jersey City,New Jersey
+310,JC063,40.71113,-74.0789,"363 Martin Luther King Drive, Jersey City, NJ 07305, United States of America",07305,Hudson County,Jersey City,Jersey City,New Jersey
+311,JC065,40.737711,-74.0669,"Dey Street, Jersey City, NJ 07306, United States of America",07306,Hudson County,Jersey City,Jersey City,New Jersey
+312,JC066,40.7272235,-74.0338,"Newport (PATH), Town Square Place, Jersey City, NJ 07310, United States of America",07310,Hudson County,Newport,Jersey City,New Jersey
+313,JC072,40.71241882,-74.0385,"174 Washington Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+314,JC074,40.723331586,-74.046,"577 Jersey Avenue, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+315,JC075,40.725685,-74.0488,"320 1/2 6th Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+316,JC076,40.72163,-74.05,"158 Wayne Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Not found,Jersey City,New Jersey
+317,JC077,40.719282,-74.0713,"139 Monticello Avenue, Jersey City, NJ 07304, United States of America",07304,Hudson County,Not found,Jersey City,New Jersey
+318,JC078,40.713463827,-74.0629,"Monumental Baptist Church, Lafayette Street, Jersey City, NJ 07304, United States of America",07304,Hudson County,Jersey City,Jersey City,New Jersey
+319,JC080,40.745909966,-74.0573,"199 Sherman Place, Jersey City, NJ 07307, United States of America",07307,Hudson County,Not found,Jersey City,New Jersey
+320,JC081,40.72601173,-74.0504,"183 Brunswick Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+321,JC082,40.72165072,-74.0429,"367 Manila Avenue, Jersey City, NJ 07302, United States of America",07302,Hudson County,Newport,Jersey City,New Jersey
+322,JC084,40.714358000000004,-74.0666,"2 Berry Lane, Jersey City, NJ 07304, United States of America",07304,Hudson County,Not found,Jersey City,New Jersey
+323,JC093,40.725726,-74.072,"351 Fairmount Avenue, Jersey City, NJ 07306, United States of America",07306,Hudson County,Jersey City,Jersey City,New Jersey
+324,JC094,40.727551,-74.0711,"St. Peter's University, Tuers Avenue, Jersey City, NJ 07306, United States of America",07306,Hudson County,Not found,Jersey City,New Jersey
+325,JC095,40.722103786999995,-74.0715,"644 Bergen Avenue, Jersey City, NJ 07304, United States of America",07304,Hudson County,Jersey City,Jersey City,New Jersey
+326,JC096,40.71649,-74.0411,"163 York Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Downtown Jersey City,Jersey City,New Jersey
+327,JC097,40.716615000000004,-74.0424,"190 York Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Downtown Jersey City,Jersey City,New Jersey
+328,JC098,40.724294,-74.0355,"Thomas Gangemi Drive, Jersey City, NJ 07302, United States of America",07302,Hudson County,Newport,Jersey City,New Jersey
+329,JC099,40.71942,-74.051,"358 Montgomery Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+330,JC102,40.715177677,-74.0377,"93 Grand Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Jersey City,Jersey City,New Jersey
+331,JC103,40.733670000000004,-74.0625,"91 Van Reipen Avenue, Jersey City, NJ 07306, United States of America",07306,Hudson County,Indian Square,Jersey City,New Jersey
+332,JC104,40.71925170000001,-74.0342,"Harborside Plaza 5, 185 Hudson Street, Jersey City, NJ 07311, United States of America",07311,Hudson County,Downtown Jersey City,Jersey City,New Jersey
+333,JC105,40.735208,-74.047,"96 Hoboken Avenue, Jersey City, NJ 07310, United States of America",07310,Hudson County,Not found,Jersey City,New Jersey
+334,JC106,40.71687,-74.0328,"Exchange Place (PATH), Christopher Columbus Drive, Jersey City, NJ 07311, United States of America",07311,Hudson County,Downtown Jersey City,Jersey City,New Jersey
+335,JC107,40.709198,-74.0808,"84 Grant Avenue, Jersey City, NJ 07305, United States of America",07305,Hudson County,Not found,Jersey City,New Jersey
+336,JC108,40.706575,-74.0867,"110 Bergen Avenue, Jersey City, NJ 07305, United States of America",07305,Hudson County,Not found,Jersey City,New Jersey
+337,JC109,40.731008887,-74.0644,"40 John F. Kennedy Boulevard, Jersey City, NJ 07306, United States of America",07306,Hudson County,Jersey City,Jersey City,New Jersey
+338,JC110,40.715391,-74.0497,"Jersey City Medical Center, 355 Grand Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Not found,Jersey City,New Jersey
+339,JC115,40.719409999999996,-74.0431,"315 Grove Street, Jersey City, NJ 07302, United States of America",07302,Hudson County,Downtown Jersey City,Jersey City,New Jersey
+340,JC116,40.716365962,-74.0343,"Montgomery Street, Jersey City, NJ 07306, United States of America",07306,Hudson County,Downtown Jersey City,Jersey City,New Jersey
+341,JCSYS,40.70965083,-74.0686,"198 Forrest Street, Jersey City, NJ 07304, United States of America",07304,Hudson County,Not found,Jersey City,New Jersey
+342,MTL-ECO5-LAB,40.747165634,-74.089,"Koppers Dredged Material Recycling Facility, 1 Fish House Road, Kearny, NJ 07032, United States of America",07032,Hudson County,Kearny,Kearny,New Jersey
+343,Shop Morgan ,40.709873339,-73.9316,"154 Morgan Avenue, New York, NY 11237, United States of America",11237,Not found,Not found,New York,New York
+344,SYS035,40.72865963,-74.012,"Pier 40, West Houston Street, New York, NY 10014, United States of America",10014,New York County,West Village,New York,New York
