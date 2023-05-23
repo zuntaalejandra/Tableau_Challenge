@@ -87,3 +87,12 @@ Image 6
 Image 7
 
  <p align="center"><img src="https://github.com/zuntaalejandra/Tableau_Challenge/blob/main/Images/History%207.png" /></p>
+
+Image 8
+
+ <p align="center"><img src="https://github.com/zuntaalejandra/Tableau_Challenge/blob/main/Images/History%208.png" /></p>
+
+
+Image 9
+
+ <p align="center"><img src="https://github.com/zuntaalejandra/Tableau_Challenge/blob/main/Images/History%209.png" /></p>

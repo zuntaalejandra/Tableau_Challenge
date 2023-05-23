@@ -1,0 +1,90 @@
+Start_Station_Id,Start_Latitude,Start_Longitude,complete_adress,postcode,county,district,city,state,Start_Station_Name
+5532.01,40.71528505,-74.03782832,"93 Grand Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Mercer St & Spring St
+HB101,40.73526955,-74.03034222,"56 Hudson Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,Hoboken Terminal - Hudson St & Hudson Pl
+HB102,40.72918105,-74.03479791,"575 Washington Boulevard, Jersey City, NJ 07310, United States of America",7310,Hudson County,Jersey City,Jersey City,New Jersey,Hoboken Terminal - River St & Hudson Pl
+HB103,40.73601556,-74.02932143,"76 River Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Not found,Hoboken,New Jersey,South Waterfront Walkway - Sinatra Dr & 1 St
+HB105,40.7328987,-74.04960847,"228 Hoboken Avenue, Jersey City, NJ 07306, United States of America",7306,Hudson County,Jersey City,Jersey City,New Jersey,City Hall - Washington St & 1 St
+HB201,40.7498219,-74.02409089,"1125 Maxwell Lane, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,12 St & Sinatra Dr N
+HB202,40.74859822,-74.03519438,"904 Jefferson Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,14 St Ferry - 14 St & Shipyard Ln
+HB203,40.75371504,-74.02652466,"116 14th Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,Bloomfield St & 15 St
+HB301,40.73706768,-74.03814602,"70 Adams Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,4 St & Grand St
+HB302,40.74085355,-74.04293907,"100 Marshall Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Jersey City,Hoboken,New Jersey,6 St & Grand St
+HB303,40.74060249,-74.03391075,"232 Willow Ave, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,Clinton St & 7 St
+HB304,40.739627,-74.03522956,"200 Clinton St, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,7 St & Monroe St
+HB305,40.74717188,-74.03844333,"Monroe Center for the Arts, 623 Monroe St, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,9 St HBLR - Jackson St & 8 St
+HB401,40.73723543,-74.04118013,"609 Observer Highway, Hoboken, NJ 07030, United States of America",7030,Hudson County,Not found,Hoboken,New Jersey,Southwest Park - Jackson St & Observer Hwy
+HB402,40.73793423,-74.0394181,"73 Madison Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,Madison St & 1 St
+HB404,40.73781204,-74.03857756,"68 Jefferson Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,Mama Johnson Field - 4 St & Jackson St
+HB407,40.7251141,-74.04566943,"617 Jersey Avenue, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Adams St & 2 St
+HB408,40.7401731,-74.04271197,"Marshall Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,Marshall St & 2 St
+HB409,40.73711252,-74.03560984,"Neumann Building, Newark Street, Hoboken, NJ 07310, United States of America",7310,Hudson County,Not found,Hoboken,New Jersey,Clinton St & Newark St
+HB501,40.74709463,-74.03663576,"723 Madison Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,Columbus Park - Clinton St & 9 St
+HB502,40.74587655,-74.03391004,"705 Grand Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,11 St & Washington St
+HB503,40.74969864,-74.03582227,"ShopRite, 900 Madison Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Not found,Hoboken,New Jersey,Madison St & 10 St
+HB505,40.75103974,-74.03058636,"1100 Willow Avenue, Hoboken, NJ 07030, United States of America",7030,Hudson County,Not found,Hoboken,New Jersey,Willow Ave & 12 St
+HB506,40.72045302,-74.04283833,"Orale Mexican Kitchen, 341 Grove Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Newport,Jersey City,New Jersey,Grand St & 14 St
+HB507,40.75039983,-74.0342927,"Ballpark Apartments, 1017 Jefferson Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,Adams St & 11 St
+HB601,40.71725845,-74.0329591,"10 Columbus Drive, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Church Sq Park - 5 St & Park Ave
+HB602,40.74104523,-74.03432118,"Hoboken University Medical Center, 308 Willow Avenue, Hoboken, NJ 07030, United States of America",7030,Hudson County,Not found,Hoboken,New Jersey,Stevens - River Ter & 6 St
+HB603,40.74514806,-74.0277971,"716 Hudson Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Not found,Hoboken,New Jersey,8 St & Washington St
+HB607,40.74025834,-74.02851427,"Municipal Lot G, River Street, Hoboken, NJ 07030, United States of America",7030,Hudson County,Not found,Hoboken,New Jersey,Hudson St & 4 St
+HB608,40.73870254,-74.03328085,"125 Park Avenue, Hoboken, NJ 07030, United States of America",7030,Hudson County,Hoboken,Hoboken,New Jersey,2 St & Park Ave
+JC002,40.70966756,-74.0684526,"98 Forrest Street, Jersey City, NJ 07304, United States of America",7304,Hudson County,Jersey City,Jersey City,New Jersey,Paulus Hook
+JC003,40.71583808,-74.06708455,"Grand Street at Summit Avenue, Summit Avenue, Jersey City, NJ 07087, United States of America",7087,Hudson County,Jersey City,Jersey City,New Jersey,City Hall
+JC005,40.71392345,-74.0614624,"Number 22 Elementary School, Maple Street, Jersey City, NJ 07304, United States of America",7304,Hudson County,Not found,Jersey City,New Jersey,Grove St PATH
+JC006,40.72035599,-74.03861094,"10 Provost, Morgan Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Downtown Jersey City,Jersey City,New Jersey,Warren St
+JC008,40.71914947,-74.03268433,"Harborside Plaza 1-3, 200 Hudson Street, Jersey City, NJ 07311, United States of America",7311,Hudson County,Downtown Jersey City,Jersey City,New Jersey,Newport Pkwy
+JC009,40.71880698,-74.03850853,"The Lively, 321 Warren Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Newport,Jersey City,New Jersey,Hamilton Park
+JC011,40.71605086,-74.04945374,"Jersey City Medical Center, 355 Grand Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Not found,Jersey City,New Jersey,JC Medical Center
+JC013,40.71415997,-74.04284096,"201 Marin Boulevard, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Marin Light Rail
+JC014,40.71694577,-74.03451836,"2 Montgomery Street, Jersey City, NJ 07311, United States of America",7311,Hudson County,Downtown Jersey City,Jersey City,New Jersey,Columbus Drive
+JC018,40.73370099,-74.06017244,"18 Van Reipen Avenue, Jersey City, NJ 07306, United States of America",7306,Hudson County,Jersey City,Jersey City,New Jersey,5 Corners Library
+JC019,40.73045325,-74.05717039,"Saint Joseph's Catholic Church, 511 Pavonia Avenue, Jersey City, NJ 07306, United States of America",7306,Hudson County,Indian Square,Jersey City,New Jersey,Hilltop
+JC020,40.72182357,-74.0467931,"217 Newark Avenue, Jersey City, NJ 07302, United States of America",7302,Hudson County,Not found,Jersey City,New Jersey,Baldwin at Montgomery
+JC022,40.72045302,-74.04283834,"Orale Mexican Kitchen, 341 Grove Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Newport,Jersey City,New Jersey,Oakland Ave
+JC023,40.71880697,-74.03850853,"The Lively, 321 Warren Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Newport,Jersey City,New Jersey,Brunswick St
+JC024,40.74215925,-74.05206204,"216 Central Avenue, Jersey City, NJ 07307, United States of America",7307,Hudson County,Jersey City,Jersey City,New Jersey,Pershing Field
+JC027,40.72507608,-74.04522693,"618 Jersey Avenue, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Jersey & 6th St
+JC032,40.72045302,-74.04283833,"Orale Mexican Kitchen, 341 Grove Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Newport,Jersey City,New Jersey,Newark Ave
+JC034,40.73419178,-74.05063927,"149 Palisade Avenue, Jersey City, NJ 07306, United States of America",7306,Hudson County,Jersey City,Jersey City,New Jersey,Christ Hospital
+JC035,40.71584714,-74.04279447,"198 Grand Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Van Vorst Park
+JC038,40.71247017,-74.03691447,"Clermont Cove, 1 Greene Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Colgate Center,Jersey City,New Jersey,Essex Light Rail
+JC051,40.71745825,-74.08330989,"6 Boyd Court, Jersey City, NJ 07304, United States of America",7304,Hudson County,Jersey City,Jersey City,New Jersey,Union St
+JC052,40.7094227,-74.0448215,"Great Lawn, The Grove Remembrance Trail, Jersey City, NJ 07302, United States of America",7302,Hudson County,Not found,Jersey City,New Jersey,Liberty Light Rail
+JC053,40.72369111,-74.07844377,"690 West Side Avenue, Jersey City, NJ 07304, United States of America",7304,Hudson County,Jersey City,Jersey City,New Jersey,Lincoln Park
+JC055,40.72454274,-74.06736875,"20 Nevin Street, Jersey City, NJ 07306, United States of America",7306,Hudson County,Jersey City,Jersey City,New Jersey,McGinley Square
+JC056,40.73070717,-74.06384111,"32 Sip Avenue, Jersey City, NJ 07306, United States of America",7306,Hudson County,Indian Square,Jersey City,New Jersey,Sip Ave
+JC057,40.7443187,-74.0439909,"461 Palisade Avenue, Jersey City, NJ 07087, United States of America",7087,Hudson County,Not found,Jersey City,New Jersey,Riverview Park
+JC059,40.74838638,-74.04107666,"590 Palisade Avenue, Jersey City, NJ 07307, United States of America",7307,Hudson County,Jersey City,Jersey City,New Jersey,Heights Elevator
+JC063,40.71095419,-74.07891691,"354 Martin Luther King Drive, Jersey City, NJ 07305, United States of America",7305,Hudson County,Jersey City,Jersey City,New Jersey,Jackson Square
+JC065,40.71995425,-74.04331291,"125 Newark Avenue, Jersey City, NJ 07302, United States of America",7302,Hudson County,Downtown Jersey City,Jersey City,New Jersey,Dey St
+JC066,40.71901703,-74.0325886,"8 Columbus Drive, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Newport PATH
+JC072,40.71193659,-74.03859699,"Portside Towers East, Dudley Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Downtown Jersey City,Jersey City,New Jersey,Morris Canal
+JC074,40.71757853,-74.0468365,"279 York Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Downtown Jersey City,Jersey City,New Jersey,Jersey & 3rd
+JC075,40.72518253,-74.04789269,"318 5th Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Monmouth and 6th
+JC076,40.72113013,-74.05006325,"158 Wayne Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Not found,Jersey City,New Jersey,Dixon Mills
+JC077,40.71835995,-74.07184529,"110 Monticello Avenue, Jersey City, NJ 07304, United States of America",7304,Hudson County,Jersey City,Jersey City,New Jersey,Astor Place
+JC078,40.71256125,-74.06177616,"146 Lafayette Street, Jersey City, NJ 07304, United States of America",7304,Hudson County,Not found,Jersey City,New Jersey,Lafayette Park
+JC080,40.731166,-74.06467867,"40 John F. Kennedy Boulevard, Jersey City, NJ 07306, United States of America",7306,Hudson County,Indian Square,Jersey City,New Jersey,Leonard Gordon Park
+JC081,40.72467768,-74.05037725,"156 Brunswick Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Not found,Jersey City,New Jersey,Brunswick & 6th
+JC082,40.71985054,-74.04303408,"325 Grove Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Downtown Jersey City,Jersey City,New Jersey,Manila & 1st
+JC084,40.7142458,-74.06652737,"6 Berry Lane, Jersey City, NJ 07304, United States of America",7304,Hudson County,Not found,Jersey City,New Jersey,Communipaw & Berry Lane
+JC093,40.72339523,-74.06463909,"41 Baldwin Avenue, Jersey City, NJ 07304, United States of America",7304,Hudson County,Jersey City,Jersey City,New Jersey,Fairmount Ave
+JC094,40.72684491,-74.07111228,"St. Peter's University, Tuers Avenue, Jersey City, NJ 07306, United States of America",7306,Hudson County,Not found,Jersey City,New Jersey,Glenwood Ave
+JC095,40.72193348,-74.07140553,"640 Bergen Avenue, Jersey City, NJ 07304, United States of America",7304,Hudson County,Jersey City,Jersey City,New Jersey,Bergen Ave
+JC097,40.71644104,-74.04230464,"Our Lady of Czestochowa School, Marin Boulevard, Jersey City, NJ 07302, United States of America",7302,Hudson County,Downtown Jersey City,Jersey City,New Jersey,York St & Marin Blvd
+JC098,40.72047114,-74.04850829,"343 Varick Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Washington St
+JC099,40.71889257,-74.05103946,"389 York Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Downtown Jersey City,Jersey City,New Jersey,Montgomery St
+JC102,40.71448088,-74.03773177,"212 Washington Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Grand St
+JC103,40.72339522,-74.06463908,"41 Baldwin Avenue, Jersey City, NJ 07304, United States of America",7304,Hudson County,Jersey City,Jersey City,New Jersey,Journal Square
+JC104,40.71845603,-74.03418624,"Bank of America, 200 Hudson Street, Jersey City, NJ 07311, United States of America",7311,Hudson County,Downtown Jersey City,Jersey City,New Jersey,Harborside
+JC105,40.73289871,-74.04960847,"228 Hoboken Avenue, Jersey City, NJ 07306, United States of America",7306,Hudson County,Jersey City,Jersey City,New Jersey,Hoboken Ave at Monmouth St
+JC106,40.71593928,-74.03422594,"1 Exchange Place, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Columbus Dr at Exchange Pl
+JC107,40.70899379,-74.08085692,"298 Martin Luther King Drive, Jersey City, NJ 07305, United States of America",7305,Hudson County,Jersey City,Jersey City,New Jersey,Grant Ave & MLK Dr
+JC108,40.70649505,-74.08669841,"246 Stegman Street, Jersey City, NJ 07305, United States of America",7305,Hudson County,Not found,Jersey City,New Jersey,Bergen Ave & Stegman St
+JC109,40.71745825,-74.08330989,"6 Boyd Court, Jersey City, NJ 07304, United States of America",7304,Hudson County,Jersey City,Jersey City,New Jersey,Bergen Ave & Sip Ave
+JC110,40.71504009,-74.04999352,"Jersey City Medical Center, 355 Grand Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Not found,Jersey City,New Jersey,JC Medical Center
+JC115,40.71821034,-74.04459453,"45 Mercer Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Jersey City,Jersey City,New Jersey,Grove St PATH
+JC116,40.71560454,-74.03368604,"14 York Street, Jersey City, NJ 07302, United States of America",7302,Hudson County,Downtown Jersey City,Jersey City,New Jersey,Exchange Pl
+JCSYS,40.70965083,-74.06860113,"198 Forrest Street, Jersey City, NJ 07304, United States of America",7304,Hudson County,Not found,Jersey City,New Jersey,JCBS Depot
+MTL-ECO5-LAB,40.74716563,-74.08896387,"Koppers Dredged Material Recycling Facility, 1 Fish House Road, Kearny, NJ 07032, United States of America",7032,Hudson County,Kearny,Kearny,New Jersey,MTL-ECO5-LAB
